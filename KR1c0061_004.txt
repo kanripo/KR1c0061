@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩疑辨證
-#+DATE: 2015-09-23 09:37:12
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:06:58.398686
+#+PROPERTY: ID KR1c0061
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0061_WYG_004-1a>¶
 欽定四庫全書¶
 　詩疑辨證卷四¶
@@ -2090,4 +2092,3 @@
 　¶
 　¶
 　詩疑辨證卷四¶
-
